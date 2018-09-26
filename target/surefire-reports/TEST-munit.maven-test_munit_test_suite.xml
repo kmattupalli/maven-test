@@ -1,4 +1,4 @@
-<testsuite name="maven-test_munit_test_suite" time="0.519" failures="0" errors="0" skipped="0" tests="1">
+<testsuite name="maven-test_munit_test_suite" time="0.527" failures="0" errors="0" skipped="0" tests="1">
   <properties>
     <property key="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property key="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_181\jre\bin"/>
@@ -42,7 +42,7 @@
     <property key="java.class.path" value="D:\Apache Maven\apache-maven-3.5.4\bin\..\boot\plexus-classworlds-2.5.2.jar"/>
     <property key="user.name" value="kmattupalli"/>
     <property key="java.vm.specification.version" value="1.8"/>
-    <property key="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean package"/>
+    <property key="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher test"/>
     <property key="java.home" value="C:\Program Files\Java\jdk1.8.0_181\jre"/>
     <property key="sun.arch.data.model" value="64"/>
     <property key="user.language" value="en"/>
@@ -65,5 +65,5 @@
     <property key="mule.testingMode" value="true"/>
     <property key="mule.working.dir" value="C:\Users\kmattupalli\AnypointStudio\workspace\maven-test\target\.mule"/>
   </properties>
-  <testcase time="0.012" name="maven-test_munit_test_suite-maven-testFlowTest" classname="maven-test_munit_test_suite"/>
+  <testcase time="0.08" name="maven-test_munit_test_suite-maven-testFlowTest" classname="maven-test_munit_test_suite"/>
 </testsuite>
